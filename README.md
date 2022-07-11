@@ -1,8 +1,14 @@
-# Sing UI
+# Fitness UI
 
-## Build UI librarys quick with this starter template
+A React UI Library for Building Workout and Fitness Apps.
 
-### Testing components manualy via browser
+## Install
+
+```bash
+npm i --save fitnessui
+```
+
+## Testing components manualy via browser
 
 Make sure to have one terminal run
 
